@@ -30,8 +30,6 @@
 TOPDIR = $(dir $(abspath $(filter %make.inc,$(MAKEFILE_LIST))))
 # if it doesn't work, uncomment the following line (edit if needed):
 
-# TOPDIR = /pylon5/mr5fpkp/yundi/qe-benchmark/q-e-mpich-gnu
-
 # DFLAGS  = precompilation options (possible arguments to -D and -U)
 #           used by the C compiler and preprocessor
 # To use libxc (v>=3.0.1), add -D__LIBXC to DFLAGS

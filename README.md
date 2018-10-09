@@ -1,8 +1,11 @@
 Introduction:
-In this repository, 
 
 
 Detals:
+We benchmark Quantum Espresso 6.3 on Bridges Regular memory nodes. 
+
+CPU: Intel(R) Xeon(R) CPU E5-2695 v3 @ 2.30GHz
+MEM: 128 GB
 
 The following compilers combinations are used in the benchmarking:
 1) Intel Compiler Ver. 2017.4.196 + IMPI

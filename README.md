@@ -1,3 +1,9 @@
+Introduction:
+In this repository, 
+
+
+Detals:
+
 The following compilers combinations are used in the benchmarking:
 1) Intel Compiler Ver. 2017.4.196 + IMPI
 2) Intel COmpiler Ver. 2017.4.196 + MPICH2 Ver. 2.3
@@ -5,6 +11,7 @@ The following compilers combinations are used in the benchmarking:
 4) GCC Ver. 4.8.5 + MPICH Ver. 2.3
 5) GCC Ver. 4.8.5 + OPENPI Ver. 2.1.2
 
+Makefile and make.inc file can be found under install folder.
 
 Compiling QE for Bridges regular memory nodes
 In this 

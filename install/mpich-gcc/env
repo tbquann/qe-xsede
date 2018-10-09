@@ -1,0 +1,19 @@
+module load mpi/gcc_mvapich
+
+export FC=mpif90
+export F90=$FC
+export F77=$FC
+export MPIF90=$FC
+export FCFLAGS=""
+export FFLAGS=$FCFLAGS
+export CC=mpicc
+export CPP="gcc -E"
+export CFLAGS=$FCFLAGS
+export AR=xiar
+export BLAS_LIBS=""
+#-lmkl_blacs_intelmpi_lp64 -lmkl_intel_lp64"
+export LAPACK_LIBS=""
+#"-lmkl_lapack95_lp64"
+export FFT_LIBS=""
+#"-L$MKLROOT/intel64"
+./configure --enable-parallel

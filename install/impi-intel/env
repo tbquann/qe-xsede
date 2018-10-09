@@ -1,0 +1,14 @@
+export FC=mpiifort
+export F90=$FC
+export F77=$FC
+export MPIF90=$FC
+export FCFLAGS="-O3 -xAVX -fno-alias -ansi-alias -g -mkl -I$MKLROOT/include/fftw"
+export FFLAGS=$FCFLAGS
+export CC=mpiicc
+export CPP="icc -E"
+export CFLAGS=$FCFLAGS
+export AR=xiar
+export BLAS_LIBS="-lmkl_blacs_intelmpi_lp64 -lmkl_intel_lp64"
+export LAPACK_LIBS="-lmkl_lapack95_lp64"
+export FFT_LIBS="-L$MKLROOT/intel64"
+./configure -with-scalapack=intel --enable-parallel

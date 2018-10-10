@@ -24,5 +24,6 @@ Benchmarking QE on Bridges regular memory nodes
 
 
 
+Acknowledgment: XSEDE startup allocation.
 
 References:

@@ -3,7 +3,7 @@ Results for benchmarking Quantum ESPRESSO 6.3 are archived in this repo. Latest 
 Benchmark work was carried out on two types of compute nodes (regular and large memory) on Pittsburgh's Bridges cluster.
 
 Hardware:
-|-|-|
+|||
 |:-:|:-:|
 |CPU| Intel(R) Xeon(R) CPU E5-2695 v3 @ 2.30GHz|
 |MEM| 128 GB|

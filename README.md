@@ -4,7 +4,7 @@ Benchmark work was carried out on two types of compute nodes (regular and large 
 
 Hardware:
 |a|a|
-|:---:|:---:|
+|---|---|
 |CPU| 1|
 |MEM| 128 GB|
 

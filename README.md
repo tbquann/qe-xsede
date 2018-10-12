@@ -1,11 +1,14 @@
-Introduction:
+Results for benchmarking Quantum ESPRESSO 6.3 are archived in this repo. Latest update: October 2018.
 
+Benchmark work was carried out on two types of compute nodes (regular and large memory) on Pittsburgh's Bridges cluster.
 
-Detals:
-We benchmark Quantum Espresso 6.3 on Bridges Regular memory nodes. 
+Hardware:
+|-|-|
+|:-:|:-:|
+|CPU| Intel(R) Xeon(R) CPU E5-2695 v3 @ 2.30GHz|
+|MEM| 128 GB|
 
-CPU: Intel(R) Xeon(R) CPU E5-2695 v3 @ 2.30GHz
-MEM: 128 GB
+Compilers:
 
 The following compilers combinations are used in the benchmarking:
 1) Intel Compiler v2017.4.196 + IMPI

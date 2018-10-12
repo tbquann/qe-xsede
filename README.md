@@ -5,7 +5,7 @@ Benchmark work was carried out on two types of compute nodes (regular and large 
 Hardware:
 
 |a||
-|---|---|
+|:---:|:---:|
 |CPU| Intel(R) Xeon(R) CPU E5-2695 v3 @ 2.30GHz|
 |MEM| 128 GB|
 

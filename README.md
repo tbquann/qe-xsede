@@ -1,6 +1,7 @@
 Results for benchmarking Quantum ESPRESSO 6.3 on Bridges are archived in this repo. Last updated: October 14 2018.
 
 Hardware:
+
 <center>
 
 |System|CPU|MEM|
@@ -15,6 +16,7 @@ For detailed description of system configurations, see [XSEDE's official website
 Compilers:
 
 The following compilers combinations are used in the benchmarking:
+
 <center>
 
 |||

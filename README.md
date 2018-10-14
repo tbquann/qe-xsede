@@ -16,7 +16,7 @@ The following compilers combinations are used in the benchmarking:
 |||
 |-|-|
 |1| Intel Compiler v2017.4.196 + Intel MPI|
-|2| Intel COmpiler v2017.4.196 + MPICH2 v2.3|
+|2| Intel Compiler v2017.4.196 + MPICH2 v2.3|
 |3| GCC v4.8.5 + Intel MPI|
 |4| GCC v4.8.5 + MPICH v2.3|
 |5| GCC v4.8.5 + OPENMPI v2.1.2|

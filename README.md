@@ -7,7 +7,7 @@ Hardware:
 |System|CPU|MEM|
 |:---:|:---:|--|
 |Regular memory| Intel(R) Xeon(R) CPU E5-2695 v3 @ 2.30GHz|128 GB|
-|Large memory| ||
+|Large memory| Intel(R) Xeon(R) CPU E7-8870 v4 @ 2.10GHz||
 
 Compilers:
 

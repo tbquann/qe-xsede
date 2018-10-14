@@ -23,11 +23,7 @@ The following compilers combinations are used in the benchmarking:
 
 Makefile and make.inc file can be found under install folder.
 
-Compiling QE for Bridges regular memory nodes
-In this 
 
-
-Benchmarking QE on Bridges regular memory nodes
 
 
 

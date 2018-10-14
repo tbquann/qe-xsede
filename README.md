@@ -7,6 +7,7 @@ Hardware:
 |:---:|:---:|:--:|
 |Regular memory| Intel(R) Xeon(R) CPU E5-2695 v3 @ 2.30GHz|128 GB|
 |Large memory| Intel(R) Xeon(R) CPU E7-8860/8870 v3/4 @ 2.1-3.2 GHz|3TB|
+
 </center>
 
 For detailed description of system configurations, see [XSEDE's official website](https://www.psc.edu/bridges/user-guide/system-configuration) 

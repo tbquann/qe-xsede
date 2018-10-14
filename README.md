@@ -1,4 +1,4 @@
-Results for benchmarking Quantum ESPRESSO 6.3 are archived in this repo. Latest update: October 2018.
+Results for benchmarking Quantum ESPRESSO 6.3 on Bridges are archived in this repo. Latest update: October 2018.
 
 Benchmark work was carried out on two types of compute nodes (regular and large memory) on Pittsburgh's Bridges cluster.
 

@@ -20,7 +20,7 @@ The following compilers combinations are used in the benchmarking:
 <center>
 
 |Cases| Compilers|
-|:-:|:-:|
+|:-:|:-|
 |1| Intel Compiler v2017.4.196 + Intel MPI|
 |2| Intel Compiler v2017.4.196 + MPICH2 v2.3|
 |3| GCC v4.8.5 + Intel MPI|

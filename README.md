@@ -15,8 +15,6 @@ For detailed description of system configurations, see [XSEDE's official website
 
 Compilers:
 
-The following compilers combinations are used in the benchmarking:
-
 <center>
 
 |Cases| Compilers|

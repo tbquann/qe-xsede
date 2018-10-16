@@ -1,0 +1,4 @@
+
+12797:perf-sync:ready:SYS=4130494156906089
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.015 MB /tmp/amplxe-tmp-yundi/amplxe-res-12600-21933954314480300/data.0/temp.dryrun.perf (~654 samples) ]

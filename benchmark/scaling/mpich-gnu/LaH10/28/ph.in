@@ -1,0 +1,11 @@
+el-ph
+&inputph
+ tr2_ph   = 1.0d-13
+ prefix   = 'LaH10'
+ outdir   = './'
+ fildvscf = 'LaH10.dvscf',
+ fildyn   = 'LaH10.dyn'
+ trans    = .true.
+ ldisp    = .true.
+ nq1=1, nq2=1, nq3=1
+/

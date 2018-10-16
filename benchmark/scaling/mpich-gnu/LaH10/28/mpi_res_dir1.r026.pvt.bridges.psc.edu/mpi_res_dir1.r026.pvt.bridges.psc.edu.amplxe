@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <rdmgr>
+  <timestamp type="u64_t">1539593040</timestamp>
+  <hostname type="string">r026.pvt.bridges.psc.edu</hostname>
+  <os type="string">linux</os>
+  <product type="string">Intel® VTune™ Amplifier XE 2017 Update 3</product>
+  <buildNumber type="s32_t">510739</buildNumber>
+  <logicalCPUCount type="s32_t">28</logicalCPUCount>
+  <CPUFrequency type="s64_t">2300000000</CPUFrequency>
+  <CPUFamily type="s32_t">6</CPUFamily>
+  <CPUModel type="s32_t">63</CPUModel>
+  <CPUStepping type="s32_t">2</CPUStepping>
+  <CPUBrandName type="string">Intel(R) Xeon(R) CPU E5-2695 v3 @ 2.30GHz</CPUBrandName>
+  <isa type="string">avx2</isa>
+  <mpirank type="s32_t">0</mpirank>
+  <collectionTimeBegin type="u64_t">1539593047</collectionTimeBegin>
+  <collectionTimeEnd type="u64_t">1539593799</collectionTimeEnd>
+  <variables>
+   <at type="string">ah</at>
+   <mpirank type="string">0</mpirank>
+  </variables>
+ </rdmgr>
+</root>

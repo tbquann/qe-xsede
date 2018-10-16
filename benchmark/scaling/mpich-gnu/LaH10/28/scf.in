@@ -1,0 +1,52 @@
+&control
+    calculation = 'scf'
+    prefix      = 'LaH10'
+    pseudo_dir = './'
+    outdir = './'
+    etot_conv_thr = 1.D-8,
+    forc_conv_thr = 1.D-6,
+    tstress = .true.
+    tprnfor = .true.
+/
+&system
+    ibrav       = 2
+    a           = 4.80170539
+    nat         = 11
+    ntyp        = 2
+    ecutwfc     = 80.D0
+    ecutrho     = 480.D0
+    occupations = 'smearing'
+    degauss     = 0.02
+    la2f        = .true.
+/
+&electrons
+    electron_maxstep = 500
+    scf_must_converge = .true.
+    diagonalization = 'david'
+    conv_thr  = 1.0d-12
+/
+&ions
+  ion_dynamics = 'damp'
+  ion_damping = 0.2
+/
+&cell
+  cell_dynamics = 'bfgs'
+  press = 2500d0
+/
+ATOMIC_SPECIES
+La  138.90547  La.pw91-nsp-van.UPF
+H     1.008    H.pw91-van_ak.UPF
+ATOMIC_POSITIONS {alat}
+La    0    0    0
+H    -0.379006975    0.62099232    0.62099232
+H    -0.62099232    0.379006975    0.379006975
+H    -0.62099232    0.379006975    0.62099232
+H    -0.379006975    0.62099232    0.379006975
+H    -0.62099232    0.62099232    0.379006975
+H    -0.379006975    0.379006975    0.62099232
+H    -0.379006975    0.379006975    0.379006975
+H    -0.62099232    0.62099232    0.62099232
+H    -0.749999396    0.749999396    0.749999396
+H    -0.249999798    0.249999798    0.249999798
+K_POINTS {automatic}
+24 24 24 0 0 0

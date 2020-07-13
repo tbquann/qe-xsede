@@ -36,4 +36,3 @@ Makefile and make.inc file can be found under install folder.
 
 Acknowledgment: XSEDE startup allocation.
 
-References:
